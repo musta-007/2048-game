@@ -39,7 +39,7 @@ sudo apt install python3-tk
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/2048-game.git
+git clone https://github.com/musta-007/2048-game.git
 cd 2048-game
 ```
 

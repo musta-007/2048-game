@@ -61,11 +61,12 @@ python3 2048game.py
 ## 📂 Project Structure
 
 ```text
-2048-game/
-│
 ├── 2048game.py
-├── README.md
-└── LICENSE (optional)
+├── assets
+│   ├── Screenshot-begin.png
+│   ├── Screenshot-end.png
+│   └── Screenshot-move-left.png
+└── README.md
 ```
 
 ## 🛠️ Technologies Used
@@ -75,16 +76,14 @@ python3 2048game.py
 
 ## 📸 Screenshot
 
-Add a screenshot of the game here.
-
 Example:
 
 ```text
-README.md
-screenshot.png
+assets
+   ├── Screenshot-begin.png
+   ├── Screenshot-end.png
+   └── Screenshot-move-left.png
 ```
-
-Then include:
 
 
 ![2048 Screenshot](assets/Screenshot-begin.png)
